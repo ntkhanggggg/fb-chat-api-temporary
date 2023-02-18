@@ -1,5 +1,5 @@
 {
-  "name": "fb-chat-api",
+  "name": "fb-chat-api-temporary",
   "version": "10.4.19",
   "description": "A Facebook chat API that doesn't rely on XMPP",
   "scripts": {
